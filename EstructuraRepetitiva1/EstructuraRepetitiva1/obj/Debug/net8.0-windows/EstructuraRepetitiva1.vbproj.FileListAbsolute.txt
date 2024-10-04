@@ -14,3 +14,4 @@ C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva
 C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.pdb
 C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.genruntimeconfig.cache
 C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\ref\EstructuraRepetitiva1.dll
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.sourcelink.json

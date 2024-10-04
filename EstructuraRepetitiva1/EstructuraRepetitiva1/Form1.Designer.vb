@@ -95,7 +95,7 @@ Partial Class Form1
         Controls.Add(Button1)
         Controls.Add(txtNumero)
         Name = "Form1"
-        Text = "Form1"
+        Text = "2077402 - Michael Antonio Noguera Guzmán"
         ResumeLayout(False)
         PerformLayout()
     End Sub

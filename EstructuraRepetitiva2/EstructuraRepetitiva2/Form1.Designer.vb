@@ -57,9 +57,9 @@ Partial Class Form1
         lblPromedio.AutoSize = True
         lblPromedio.Location = New Point(296, 126)
         lblPromedio.Name = "lblPromedio"
-        lblPromedio.Size = New Size(41, 15)
+        lblPromedio.Size = New Size(78, 15)
         lblPromedio.TabIndex = 2
-        lblPromedio.Text = "Label1"
+        lblPromedio.Text = "Ingresa Datos"
         ' 
         ' txtNota2
         ' 
@@ -156,7 +156,7 @@ Partial Class Form1
         Controls.Add(Button1)
         Controls.Add(txtNota1)
         Name = "Form1"
-        Text = "Form1"
+        Text = "2077402 - Noguera Guzmán"
         ResumeLayout(False)
         PerformLayout()
     End Sub

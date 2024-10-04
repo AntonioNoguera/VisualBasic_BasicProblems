@@ -69,11 +69,11 @@ Partial Class Form1
         ' lblResultado
         ' 
         lblResultado.AutoSize = True
-        lblResultado.Location = New Point(245, 132)
+        lblResultado.Location = New Point(229, 132)
         lblResultado.Name = "lblResultado"
-        lblResultado.Size = New Size(41, 15)
+        lblResultado.Size = New Size(96, 15)
         lblResultado.TabIndex = 4
-        lblResultado.Text = "Label1"
+        lblResultado.Text = "Ingresa tus datos"
         ' 
         ' Label1
         ' 
@@ -138,7 +138,7 @@ Partial Class Form1
         Controls.Add(txtNum2)
         Controls.Add(txtNum1)
         Name = "Form1"
-        Text = "Form1"
+        Text = "2077402 - Noguera Guzmán"
         ResumeLayout(False)
         PerformLayout()
     End Sub

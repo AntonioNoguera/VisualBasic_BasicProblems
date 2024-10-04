@@ -49,11 +49,11 @@ Partial Class Form1
         ' lblResultado
         ' 
         lblResultado.AutoSize = True
-        lblResultado.Location = New Point(309, 94)
+        lblResultado.Location = New Point(286, 91)
         lblResultado.Name = "lblResultado"
-        lblResultado.Size = New Size(41, 15)
+        lblResultado.Size = New Size(122, 15)
         lblResultado.TabIndex = 2
-        lblResultado.Text = "Label1"
+        lblResultado.Text = "Ingresa tu calificación"
         ' 
         ' Label1
         ' 
@@ -96,7 +96,7 @@ Partial Class Form1
         Controls.Add(Button1)
         Controls.Add(txtNota)
         Name = "Form1"
-        Text = "Form1"
+        Text = "2077402 - Noguera Guzmán"
         ResumeLayout(False)
         PerformLayout()
     End Sub
