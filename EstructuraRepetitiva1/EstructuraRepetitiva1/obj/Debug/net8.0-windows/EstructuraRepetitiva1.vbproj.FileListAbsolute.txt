@@ -1,0 +1,16 @@
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\bin\Debug\net8.0-windows\EstructuraRepetitiva1.exe
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\bin\Debug\net8.0-windows\EstructuraRepetitiva1.deps.json
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\bin\Debug\net8.0-windows\EstructuraRepetitiva1.runtimeconfig.json
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\bin\Debug\net8.0-windows\EstructuraRepetitiva1.dll
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\bin\Debug\net8.0-windows\EstructuraRepetitiva1.pdb
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.Form1.resources
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.vbproj.GenerateResource.cache
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.AssemblyInfoInputs.cache
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.AssemblyInfo.vb
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.vbproj.CoreCompileInputs.cache
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.dll
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\refint\EstructuraRepetitiva1.dll
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.pdb
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\EstructuraRepetitiva1.genruntimeconfig.cache
+C:\Users\Michael Noguera\source\repos\EstructuraRepetitiva1\EstructuraRepetitiva1\obj\Debug\net8.0-windows\ref\EstructuraRepetitiva1.dll

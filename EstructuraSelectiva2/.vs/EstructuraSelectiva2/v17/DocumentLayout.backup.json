@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE8F710-845C-448D-8E07-0EDF6A966424}|EstructuraSelectiva2\\EstructuraSelectiva2.vbproj|c:\\users\\michael noguera\\source\\repos\\estructuraselectiva2\\estructuraselectiva2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8BE8F710-845C-448D-8E07-0EDF6A966424}|EstructuraSelectiva2\\EstructuraSelectiva2.vbproj|solutionrelative:estructuraselectiva2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE8F710-845C-448D-8E07-0EDF6A966424}|EstructuraSelectiva2\\EstructuraSelectiva2.vbproj|c:\\users\\michael noguera\\source\\repos\\estructuraselectiva2\\estructuraselectiva2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8BE8F710-845C-448D-8E07-0EDF6A966424}|EstructuraSelectiva2\\EstructuraSelectiva2.vbproj|solutionrelative:estructuraselectiva2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva2\\EstructuraSelectiva2\\Form1.vb",
+              "RelativeDocumentMoniker": "EstructuraSelectiva2\\Form1.vb",
+              "ToolTip": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva2\\EstructuraSelectiva2\\Form1.vb",
+              "RelativeToolTip": "EstructuraSelectiva2\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T19:07:00.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva2\\EstructuraSelectiva2\\Form1.vb",
+              "RelativeDocumentMoniker": "EstructuraSelectiva2\\Form1.vb",
+              "ToolTip": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva2\\EstructuraSelectiva2\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "EstructuraSelectiva2\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T18:47:41.843Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

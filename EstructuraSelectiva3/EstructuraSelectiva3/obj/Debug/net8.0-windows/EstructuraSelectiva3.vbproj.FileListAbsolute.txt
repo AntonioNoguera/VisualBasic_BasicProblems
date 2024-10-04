@@ -1,0 +1,16 @@
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\bin\Debug\net8.0-windows\EstructuraSelectiva3.exe
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\bin\Debug\net8.0-windows\EstructuraSelectiva3.deps.json
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\bin\Debug\net8.0-windows\EstructuraSelectiva3.runtimeconfig.json
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\bin\Debug\net8.0-windows\EstructuraSelectiva3.dll
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\bin\Debug\net8.0-windows\EstructuraSelectiva3.pdb
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\obj\Debug\net8.0-windows\EstructuraSelectiva3.Form1.resources
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\obj\Debug\net8.0-windows\EstructuraSelectiva3.vbproj.GenerateResource.cache
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\obj\Debug\net8.0-windows\EstructuraSelectiva3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\obj\Debug\net8.0-windows\EstructuraSelectiva3.AssemblyInfoInputs.cache
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\obj\Debug\net8.0-windows\EstructuraSelectiva3.AssemblyInfo.vb
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\obj\Debug\net8.0-windows\EstructuraSelectiva3.vbproj.CoreCompileInputs.cache
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\obj\Debug\net8.0-windows\EstructuraSelectiva3.dll
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\obj\Debug\net8.0-windows\refint\EstructuraSelectiva3.dll
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\obj\Debug\net8.0-windows\EstructuraSelectiva3.pdb
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\obj\Debug\net8.0-windows\EstructuraSelectiva3.genruntimeconfig.cache
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva3\EstructuraSelectiva3\obj\Debug\net8.0-windows\ref\EstructuraSelectiva3.dll

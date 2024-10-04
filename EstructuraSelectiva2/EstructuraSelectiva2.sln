@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EstructuraSelectiva2", "EstructuraSelectiva2\EstructuraSelectiva2.vbproj", "{8BE8F710-845C-448D-8E07-0EDF6A966424}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE8F710-845C-448D-8E07-0EDF6A966424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE8F710-845C-448D-8E07-0EDF6A966424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE8F710-845C-448D-8E07-0EDF6A966424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE8F710-845C-448D-8E07-0EDF6A966424}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72173A90-27CE-4F37-9DA6-BDA0E4B73BE0}
+	EndGlobalSection
+EndGlobal
