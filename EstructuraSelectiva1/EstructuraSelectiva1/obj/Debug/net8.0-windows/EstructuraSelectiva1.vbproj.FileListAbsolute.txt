@@ -14,3 +14,4 @@ C:\Users\Michael Noguera\source\repos\EstructuraSelectiva1\EstructuraSelectiva1\
 C:\Users\Michael Noguera\source\repos\EstructuraSelectiva1\EstructuraSelectiva1\obj\Debug\net8.0-windows\EstructuraSelectiva1.pdb
 C:\Users\Michael Noguera\source\repos\EstructuraSelectiva1\EstructuraSelectiva1\obj\Debug\net8.0-windows\EstructuraSelectiva1.genruntimeconfig.cache
 C:\Users\Michael Noguera\source\repos\EstructuraSelectiva1\EstructuraSelectiva1\obj\Debug\net8.0-windows\ref\EstructuraSelectiva1.dll
+C:\Users\Michael Noguera\source\repos\EstructuraSelectiva1\EstructuraSelectiva1\obj\Debug\net8.0-windows\EstructuraSelectiva1.sourcelink.json

@@ -25,38 +25,73 @@ Partial Class Form1
         txtNota = New TextBox()
         Button1 = New Button()
         lblResultado = New Label()
+        Label1 = New Label()
+        Label2 = New Label()
+        Label3 = New Label()
         SuspendLayout()
         ' 
         ' txtNota
         ' 
-        txtNota.Location = New Point(108, 217)
+        txtNota.Location = New Point(21, 91)
         txtNota.Name = "txtNota"
-        txtNota.Size = New Size(100, 23)
+        txtNota.Size = New Size(171, 23)
         txtNota.TabIndex = 0
         ' 
         ' Button1
         ' 
-        Button1.Location = New Point(148, 303)
+        Button1.Location = New Point(12, 134)
         Button1.Name = "Button1"
-        Button1.Size = New Size(75, 23)
+        Button1.Size = New Size(415, 23)
         Button1.TabIndex = 1
-        Button1.Text = "Button1"
+        Button1.Text = "Verificar Resultado"
         Button1.UseVisualStyleBackColor = True
         ' 
         ' lblResultado
         ' 
         lblResultado.AutoSize = True
-        lblResultado.Location = New Point(430, 211)
+        lblResultado.Location = New Point(309, 94)
         lblResultado.Name = "lblResultado"
         lblResultado.Size = New Size(41, 15)
         lblResultado.TabIndex = 2
         lblResultado.Text = "Label1"
         ' 
+        ' Label1
+        ' 
+        Label1.AutoSize = True
+        Label1.Font = New Font("Century Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Label1.Location = New Point(12, 18)
+        Label1.Name = "Label1"
+        Label1.Size = New Size(415, 19)
+        Label1.TabIndex = 3
+        Label1.Text = "Estructura Selectiva 2  - Asignación de Calificaciones"
+        ' 
+        ' Label2
+        ' 
+        Label2.AutoSize = True
+        Label2.Location = New Point(21, 64)
+        Label2.Name = "Label2"
+        Label2.Size = New Size(171, 15)
+        Label2.TabIndex = 4
+        Label2.Text = "Ingresa tu calificación (0 - 100):"
+        ' 
+        ' Label3
+        ' 
+        Label3.AutoSize = True
+        Label3.Font = New Font("Century Gothic", 9.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Label3.Location = New Point(286, 64)
+        Label3.Name = "Label3"
+        Label3.Size = New Size(87, 16)
+        Label3.TabIndex = 5
+        Label3.Text = "Calificación"
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
+        ClientSize = New Size(439, 180)
+        Controls.Add(Label3)
+        Controls.Add(Label2)
+        Controls.Add(Label1)
         Controls.Add(lblResultado)
         Controls.Add(Button1)
         Controls.Add(txtNota)
@@ -69,5 +104,8 @@ Partial Class Form1
     Friend WithEvents txtNota As TextBox
     Friend WithEvents Button1 As Button
     Friend WithEvents lblResultado As Label
+    Friend WithEvents Label1 As Label
+    Friend WithEvents Label2 As Label
+    Friend WithEvents Label3 As Label
 
 End Class

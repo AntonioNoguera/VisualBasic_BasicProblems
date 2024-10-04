@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("EstructuraSelectiva1"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f68b6eca087cd3f967dc1765b98a9c07a0ab4c9"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("EstructuraSelectiva1"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("EstructuraSelectiva1"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

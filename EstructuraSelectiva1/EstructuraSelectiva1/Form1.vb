@@ -23,7 +23,7 @@
                     Exit Sub
             End Select
 
-            lblResultado.Text = "Resultado: " & resultado.ToString("F2")
+            lblResultado.Text = resultado.ToString("F2")
         Else
             MessageBox.Show("Por favor, ingresa números válidos.")
         End If

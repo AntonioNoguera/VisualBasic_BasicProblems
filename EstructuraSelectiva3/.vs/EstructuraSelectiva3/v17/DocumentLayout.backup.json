@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD18E0CE-993F-4258-B2EE-64F0D9B6AF34}|EstructuraSelectiva3\\EstructuraSelectiva3.vbproj|c:\\users\\michael noguera\\source\\repos\\estructuraselectiva3\\estructuraselectiva3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{FD18E0CE-993F-4258-B2EE-64F0D9B6AF34}|EstructuraSelectiva3\\EstructuraSelectiva3.vbproj|solutionrelative:estructuraselectiva3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FD18E0CE-993F-4258-B2EE-64F0D9B6AF34}|EstructuraSelectiva3\\EstructuraSelectiva3.vbproj|c:\\users\\michael noguera\\source\\repos\\estructuraselectiva3\\estructuraselectiva3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{FD18E0CE-993F-4258-B2EE-64F0D9B6AF34}|EstructuraSelectiva3\\EstructuraSelectiva3.vbproj|solutionrelative:estructuraselectiva3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD18E0CE-993F-4258-B2EE-64F0D9B6AF34}|EstructuraSelectiva3\\EstructuraSelectiva3.vbproj|c:\\users\\michael noguera\\source\\repos\\estructuraselectiva3\\estructuraselectiva3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FD18E0CE-993F-4258-B2EE-64F0D9B6AF34}|EstructuraSelectiva3\\EstructuraSelectiva3.vbproj|solutionrelative:estructuraselectiva3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva3\\EstructuraSelectiva3\\Form1.vb",
               "RelativeDocumentMoniker": "EstructuraSelectiva3\\Form1.vb",
-              "ToolTip": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva3\\EstructuraSelectiva3\\Form1.vb",
-              "RelativeToolTip": "EstructuraSelectiva3\\Form1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva3\\EstructuraSelectiva3\\Form1.vb*",
+              "RelativeToolTip": "EstructuraSelectiva3\\Form1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-10-04T19:08:20.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva3\\EstructuraSelectiva3\\Form1.vb",
               "RelativeDocumentMoniker": "EstructuraSelectiva3\\Form1.vb",
-              "ToolTip": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva3\\EstructuraSelectiva3\\Form1.vb [Dise\u00F1o]",
-              "RelativeToolTip": "EstructuraSelectiva3\\Form1.vb [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Michael Noguera\\source\\repos\\EstructuraSelectiva3\\EstructuraSelectiva3\\Form1.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "EstructuraSelectiva3\\Form1.vb [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-10-04T18:52:33.461Z",
               "EditorCaption": " [Dise\u00F1o]"

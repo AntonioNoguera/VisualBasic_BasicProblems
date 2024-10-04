@@ -17,4 +17,5 @@
             MessageBox.Show("Por favor, ingresa un número válido.")
         End If
     End Sub
+
 End Class
