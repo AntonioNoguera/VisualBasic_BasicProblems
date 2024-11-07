@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Michael Noguera\\source\\repos\\A2. Interfaz Avanzada\\A2. Interfaz Avanzada\\A2. Interfaz Avanzada.vbproj",
+      "projectUniqueName": "C:\\Users\\Michael Noguera\\Documents\\VisualBasic_BasicProblems\\A2. Interfaz Avanzada\\A2. Interfaz Avanzada\\A2. Interfaz Avanzada.vbproj",
       "projectName": "A2. Interfaz Avanzada",
-      "projectPath": "C:\\Users\\Michael Noguera\\source\\repos\\A2. Interfaz Avanzada\\A2. Interfaz Avanzada\\A2. Interfaz Avanzada.vbproj",
+      "projectPath": "C:\\Users\\Michael Noguera\\Documents\\VisualBasic_BasicProblems\\A2. Interfaz Avanzada\\A2. Interfaz Avanzada\\A2. Interfaz Avanzada.vbproj",
       "packagesPath": "C:\\Users\\Michael Noguera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Michael Noguera\\source\\repos\\A2. Interfaz Avanzada\\A2. Interfaz Avanzada\\obj\\",
+      "outputPath": "C:\\Users\\Michael Noguera\\Documents\\VisualBasic_BasicProblems\\A2. Interfaz Avanzada\\A2. Interfaz Avanzada\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Michael Noguera\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

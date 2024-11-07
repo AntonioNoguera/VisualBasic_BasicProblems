@@ -15,3 +15,20 @@ C:\Users\Michael Noguera\source\repos\A2. Interfaz Avanzada\A2. Interfaz Avanzad
 C:\Users\Michael Noguera\source\repos\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2. Interfaz Avanzada.pdb
 C:\Users\Michael Noguera\source\repos\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2. Interfaz Avanzada.genruntimeconfig.cache
 C:\Users\Michael Noguera\source\repos\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\ref\A2. Interfaz Avanzada.dll
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\bin\Debug\net8.0-windows\A2. Interfaz Avanzada.exe
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\bin\Debug\net8.0-windows\A2. Interfaz Avanzada.deps.json
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\bin\Debug\net8.0-windows\A2. Interfaz Avanzada.runtimeconfig.json
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\bin\Debug\net8.0-windows\A2. Interfaz Avanzada.dll
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\bin\Debug\net8.0-windows\A2. Interfaz Avanzada.pdb
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2._Interfaz_Avanzada.Form1.resources
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2. Interfaz Avanzada.vbproj.GenerateResource.cache
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2. Interfaz Avanzada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2. Interfaz Avanzada.AssemblyInfoInputs.cache
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2. Interfaz Avanzada.AssemblyInfo.vb
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2. Interfaz Avanzada.vbproj.CoreCompileInputs.cache
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2. Interfaz Avanzada.sourcelink.json
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2. Interfaz Avanzada.dll
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\refint\A2. Interfaz Avanzada.dll
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2. Interfaz Avanzada.pdb
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\A2. Interfaz Avanzada.genruntimeconfig.cache
+C:\Users\Michael Noguera\Documents\VisualBasic_BasicProblems\A2. Interfaz Avanzada\A2. Interfaz Avanzada\obj\Debug\net8.0-windows\ref\A2. Interfaz Avanzada.dll

@@ -30,6 +30,8 @@ Partial Class Form1
         ButtonCalcular = New Button()
         LabelTitulo = New Label()
         Label1 = New Label()
+        LabelOperation2 = New Label()
+        LabelOperation1 = New Label()
         SuspendLayout()
         ' 
         ' ComboBoxMenu
@@ -44,31 +46,31 @@ Partial Class Form1
         ' 
         LabelResultado.AutoSize = True
         LabelResultado.Font = New Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        LabelResultado.Location = New Point(325, 142)
+        LabelResultado.Location = New Point(254, 142)
         LabelResultado.Name = "LabelResultado"
-        LabelResultado.Size = New Size(61, 21)
+        LabelResultado.Size = New Size(92, 21)
         LabelResultado.TabIndex = 1
-        LabelResultado.Text = "Label1"
+        LabelResultado.Text = "Resultado:"
         ' 
         ' TextBoxNum1
         ' 
-        TextBoxNum1.Location = New Point(33, 144)
+        TextBoxNum1.Location = New Point(25, 140)
         TextBoxNum1.Name = "TextBoxNum1"
-        TextBoxNum1.Size = New Size(68, 23)
+        TextBoxNum1.Size = New Size(57, 23)
         TextBoxNum1.TabIndex = 2
         ' 
         ' TextBoxNum2
         ' 
-        TextBoxNum2.Location = New Point(228, 144)
+        TextBoxNum2.Location = New Point(108, 140)
         TextBoxNum2.Name = "TextBoxNum2"
-        TextBoxNum2.Size = New Size(68, 23)
+        TextBoxNum2.Size = New Size(57, 23)
         TextBoxNum2.TabIndex = 3
         ' 
         ' TextBoxNum3
         ' 
-        TextBoxNum3.Location = New Point(133, 142)
+        TextBoxNum3.Location = New Point(191, 140)
         TextBoxNum3.Name = "TextBoxNum3"
-        TextBoxNum3.Size = New Size(68, 23)
+        TextBoxNum3.Size = New Size(57, 23)
         TextBoxNum3.TabIndex = 4
         ' 
         ' ButtonCalcular
@@ -78,34 +80,56 @@ Partial Class Form1
         ButtonCalcular.Name = "ButtonCalcular"
         ButtonCalcular.Size = New Size(353, 38)
         ButtonCalcular.TabIndex = 5
-        ButtonCalcular.Text = "Button1"
+        ButtonCalcular.Text = "Calcular"
         ButtonCalcular.UseVisualStyleBackColor = True
         ' 
         ' LabelTitulo
         ' 
         LabelTitulo.Font = New Font("Century Gothic", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        LabelTitulo.Location = New Point(33, 89)
+        LabelTitulo.Location = New Point(33, 73)
         LabelTitulo.Name = "LabelTitulo"
         LabelTitulo.Size = New Size(353, 28)
         LabelTitulo.TabIndex = 6
-        LabelTitulo.Text = "Label1"
+        LabelTitulo.Text = "Operación Seleccionada"
         LabelTitulo.TextAlign = ContentAlignment.MiddleCenter
         ' 
         ' Label1
         ' 
         Label1.AutoSize = True
         Label1.Font = New Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label1.Location = New Point(184, 23)
+        Label1.Location = New Point(75, 23)
         Label1.Name = "Label1"
-        Label1.Size = New Size(61, 21)
+        Label1.Size = New Size(271, 21)
         Label1.TabIndex = 7
-        Label1.Text = "Label1"
+        Label1.Text = "Selecciona la operación a realizar"
+        ' 
+        ' LabelOperation2
+        ' 
+        LabelOperation2.AutoSize = True
+        LabelOperation2.Font = New Font("Century Gothic", 9F, FontStyle.Bold)
+        LabelOperation2.Location = New Point(171, 143)
+        LabelOperation2.Name = "LabelOperation2"
+        LabelOperation2.Size = New Size(14, 16)
+        LabelOperation2.TabIndex = 8
+        LabelOperation2.Text = "×"
+        ' 
+        ' LabelOperation1
+        ' 
+        LabelOperation1.AutoSize = True
+        LabelOperation1.Font = New Font("Century Gothic", 9F, FontStyle.Bold)
+        LabelOperation1.Location = New Point(88, 142)
+        LabelOperation1.Name = "LabelOperation1"
+        LabelOperation1.Size = New Size(14, 16)
+        LabelOperation1.TabIndex = 9
+        LabelOperation1.Text = "×"
         ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(425, 237)
+        Controls.Add(LabelOperation1)
+        Controls.Add(LabelOperation2)
         Controls.Add(Label1)
         Controls.Add(LabelTitulo)
         Controls.Add(ButtonCalcular)
@@ -128,5 +152,7 @@ Partial Class Form1
     Friend WithEvents ButtonCalcular As Button
     Friend WithEvents LabelTitulo As Label
     Friend WithEvents Label1 As Label
+    Friend WithEvents LabelOperation2 As Label
+    Friend WithEvents LabelOperation1 As Label
 
 End Class

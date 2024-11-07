@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("A2. Interfaz Avanzada"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bdefa10ee44c43cce142a5f40ea1db77fcc62ea"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2cac914b3c55364db41ce4756ef57ab857f7930"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("A2. Interfaz Avanzada"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("A2. Interfaz Avanzada"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
