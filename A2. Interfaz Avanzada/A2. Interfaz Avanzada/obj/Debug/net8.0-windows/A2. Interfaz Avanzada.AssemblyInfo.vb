@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("EstructuraSelectiva3"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("A2. Interfaz Avanzada"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bdefa10ee44c43cce142a5f40ea1db77fcc62ea"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("EstructuraSelectiva3"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("EstructuraSelectiva3"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("A2. Interfaz Avanzada"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("A2. Interfaz Avanzada"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 

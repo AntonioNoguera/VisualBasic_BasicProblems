@@ -1,0 +1,17 @@
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\PIA.Form1.resources
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\PIA.vbproj.GenerateResource.cache
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\PIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\PIA.AssemblyInfoInputs.cache
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\PIA.AssemblyInfo.vb
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\PIA.vbproj.CoreCompileInputs.cache
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\PIA.sourcelink.json
+C:\Users\Michael Noguera\source\repos\PIA\PIA\bin\Debug\net8.0-windows\PIA.exe
+C:\Users\Michael Noguera\source\repos\PIA\PIA\bin\Debug\net8.0-windows\PIA.deps.json
+C:\Users\Michael Noguera\source\repos\PIA\PIA\bin\Debug\net8.0-windows\PIA.runtimeconfig.json
+C:\Users\Michael Noguera\source\repos\PIA\PIA\bin\Debug\net8.0-windows\PIA.dll
+C:\Users\Michael Noguera\source\repos\PIA\PIA\bin\Debug\net8.0-windows\PIA.pdb
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\PIA.dll
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\refint\PIA.dll
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\PIA.pdb
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\PIA.genruntimeconfig.cache
+C:\Users\Michael Noguera\source\repos\PIA\PIA\obj\Debug\net8.0-windows\ref\PIA.dll
