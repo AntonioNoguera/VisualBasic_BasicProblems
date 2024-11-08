@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Michael Noguera\\source\\repos\\PIA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C19F85C-6EA8-4EAE-A575-3B75C3CB78CA}|PIA\\PIA.vbproj|c:\\users\\michael noguera\\source\\repos\\pia\\pia\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5C19F85C-6EA8-4EAE-A575-3B75C3CB78CA}|PIA\\PIA.vbproj|solutionrelative:pia\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C19F85C-6EA8-4EAE-A575-3B75C3CB78CA}|PIA\\PIA.vbproj|c:\\users\\michael noguera\\source\\repos\\pia\\pia\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{5C19F85C-6EA8-4EAE-A575-3B75C3CB78CA}|PIA\\PIA.vbproj|solutionrelative:pia\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C19F85C-6EA8-4EAE-A575-3B75C3CB78CA}|PIA\\PIA.vbproj|c:\\users\\michael noguera\\source\\repos\\pia\\pia\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5C19F85C-6EA8-4EAE-A575-3B75C3CB78CA}|PIA\\PIA.vbproj|solutionrelative:pia\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{5C19F85C-6EA8-4EAE-A575-3B75C3CB78CA}|PIA\\PIA.vbproj|c:\\users\\michael noguera\\source\\repos\\pia\\pia\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5C19F85C-6EA8-4EAE-A575-3B75C3CB78CA}|PIA\\PIA.vbproj|solutionrelative:pia\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\Michael Noguera\\source\\repos\\PIA\\PIA\\Form1.vb",
               "RelativeDocumentMoniker": "PIA\\Form1.vb",
-              "ToolTip": "C:\\Users\\Michael Noguera\\source\\repos\\PIA\\PIA\\Form1.vb",
-              "RelativeToolTip": "PIA\\Form1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Michael Noguera\\source\\repos\\PIA\\PIA\\Form1.vb*",
+              "RelativeToolTip": "PIA\\Form1.vb*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-07T03:34:54.045Z",
+              "WhenOpened": "2024-11-08T01:00:10.52Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\Michael Noguera\\source\\repos\\PIA\\PIA\\Form1.Designer.vb",
-              "RelativeDocumentMoniker": "PIA\\Form1.Designer.vb",
-              "ToolTip": "C:\\Users\\Michael Noguera\\source\\repos\\PIA\\PIA\\Form1.Designer.vb",
-              "RelativeToolTip": "PIA\\Form1.Designer.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-07T03:34:47.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Michael Noguera\\source\\repos\\PIA\\PIA\\Form1.vb",
               "RelativeDocumentMoniker": "PIA\\Form1.vb",
-              "ToolTip": "C:\\Users\\Michael Noguera\\source\\repos\\PIA\\PIA\\Form1.vb [Dise\u00F1o]",
-              "RelativeToolTip": "PIA\\Form1.vb [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Michael Noguera\\source\\repos\\PIA\\PIA\\Form1.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "PIA\\Form1.vb [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-07T03:34:19.757Z",
+              "WhenOpened": "2024-11-08T00:59:59.704Z",
+              "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

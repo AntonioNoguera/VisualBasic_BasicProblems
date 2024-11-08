@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("PIA"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bdefa10ee44c43cce142a5f40ea1db77fcc62ea"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0174a37aa2931c9add41758e968113a130fb6c2"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("PIA"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("PIA"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
